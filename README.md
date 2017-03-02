@@ -1,3 +1,3 @@
 # Helm
 
-[![dockeri.co](http://dockeri.co/image/Creatiweb/helm)](https://registry.hub.docker.com/Creatiweb/helm/)
+[![dockeri.co](http://dockeri.co/image/creatiweb/helm)](https://registry.hub.docker.com/r/creatiweb/helm/)
