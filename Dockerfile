@@ -2,7 +2,7 @@ FROM alpine:3.5
 
 MAINTAINER Fabio Todaro <fabio.todaro@crweb.it>
 
-ENV HELM_VERSION v2.2.2
+ENV HELM_VERSION v2.2.3
 ENV FILENAME helm-${HELM_VERSION}-linux-amd64.tar.gz
 
 WORKDIR /
