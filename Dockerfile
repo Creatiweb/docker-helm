@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 MAINTAINER Simone La Placa <simone.laplaca@crweb.it>
 
-ENV HELM_VERSION v2.7.2
+ENV HELM_VERSION v2.8.1
 ENV FILENAME helm-${HELM_VERSION}-linux-amd64.tar.gz
 
 RUN apk --no-cache add \ 
