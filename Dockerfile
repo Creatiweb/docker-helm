@@ -2,8 +2,8 @@ FROM google/cloud-sdk:219.0.1-alpine
 
 MAINTAINER Simone La Placa <simone.laplaca@crweb.it>
 
-ENV HELM_VERSION v2.11.0
-ENV KUBECTL_VERSION v1.10.8
+ENV HELM_VERSION v2.13.0
+ENV KUBECTL_VERSION v1.13.4
 ENV FILENAME helm-${HELM_VERSION}-linux-amd64.tar.gz
 
 WORKDIR /
